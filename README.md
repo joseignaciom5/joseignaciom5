@@ -9,7 +9,9 @@ Python · FastAPI · LangChain · ChromaDB · Ollama · Azure Document Intellige
 ## Proyectos
 
 → RAG Local con Ollama — sistema de consulta privada sobre documentos
+
 → Automated Quotation Pipeline — extracción automatizada de cotizaciones PDF con Azure OCR
+
 → MCP Excel-PostgreSQL — servidor MCP para integrar Claude Desktop con datos tabulares
 ---
 
