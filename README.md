@@ -13,6 +13,7 @@ Python · FastAPI · LangChain · ChromaDB · Ollama · Azure Document Intellige
 → Automated Quotation Pipeline — extracción automatizada de cotizaciones PDF con Azure OCR
 
 → MCP Excel-PostgreSQL — servidor MCP para integrar Claude Desktop con datos tabulares
+
 ---
 
 LinkedIn: www.linkedin.com/in/jose-ignacio-mendoza-90b851212
